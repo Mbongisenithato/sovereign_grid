@@ -1,0 +1,12 @@
+# Python Caches
+__pycache__/
+*.pyc
+
+# Local Environment Credentials (CRITICAL)
+.env
+.env.*
+*.swp
+
+# ADK Local Runtimes & Tool State Stores
+.adk/
+.pytest_cache/
